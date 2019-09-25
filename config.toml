@@ -1,0 +1,19 @@
+baseURL = "http://positive-pets.co.uk/"
+languageCode = "en-us"
+title = "Positive-Pets Dog Training"
+theme = "split-theme"
+
+[params]
+  # Metadata for search engines and social sharing
+  author = "Emma Pimm"
+
+  favicon = "images/favicon.png"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/dog.jpg"
+      position = "center center"
