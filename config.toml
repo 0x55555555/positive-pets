@@ -1,7 +1,7 @@
 baseURL = "http://positive-pets.co.uk/"
 languageCode = "en-us"
 title = "Positive-Pets Dog Training"
-theme = "split-theme"
+theme = "strata"
 
 [params]
   # Metadata for search engines and social sharing
@@ -17,3 +17,30 @@ theme = "split-theme"
       enable = true
       file = "images/dog.jpg"
       position = "center center"
+
+
+  [params.sidebar]
+    avatar = "avatar.jpg"
+    bio = "<br><br><br><br><br><br><br><br>**Positive-Pets** Dog training based in Didcot"
+    twitter = ""
+    github = ""
+    gitlab = ""
+    dribbble = ""
+    facebook = ""
+    googleplus = ""
+    flickr = ""
+    linkedin = ""
+
+    copyright = [
+      "&copy; Emma Pimm",
+      "Design: [HTML5 UP](//html5up.net)"
+    ]
+
+  [params.about]
+    hide  = false
+    title = "Dog training based in Didcot. Helping your dog to reach full potential using kind, effective and up-to-date methods."
+    content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+
+
+  [params.contact]
+    hide  = true
