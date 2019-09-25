@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dog training based in Didcot on Positive-Pets Dog Training</title>
-    <link>http://positive-pets.co.uk/</link>
+    <link>https://jorj1988.github.io/positive-pets/</link>
     <description>Recent content in Dog training based in Didcot on Positive-Pets Dog Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://positive-pets.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jorj1988.github.io/positive-pets/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
