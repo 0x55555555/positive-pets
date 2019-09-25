@@ -2,6 +2,7 @@ baseURL = "http://positive-pets.co.uk/"
 languageCode = "en-us"
 title = "Positive-Pets Dog Training"
 theme = "strata"
+publishDir = "docs"
 
 [params]
   # Metadata for search engines and social sharing
