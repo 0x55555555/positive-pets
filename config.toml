@@ -22,7 +22,7 @@ publishDir = "docs"
 
   [params.sidebar]
     avatar = "avatar.jpg"
-    bio = "<br><br><br><br><br><br><br><br>**Positive-Pets** Dog training based in Didcot"
+    bio = "<br><br><br><br><br><br><br><br>**Positive-Pets**<br> Dog training based in Didcot"
     twitter = ""
     github = ""
     gitlab = ""
